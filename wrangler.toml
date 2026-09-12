@@ -1,3 +1,3 @@
-name = "scoffe2-api"
+name = "scoffe2-worker"
 main = "index.js"
-compatibility_date = "2026-12-09"
+compatibility_date = "2023-10-30"
